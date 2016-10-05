@@ -45,44 +45,28 @@ Contracting services as a Quality Assurance Engineer.
 
 -   Android Team, September 2016 to present:
 
-    -   Integrating with CI by writing Dockerfiles to set up Android
-        > development environment.
+    -   Integrating with CI by writing Dockerfiles to set up Android development environment.
 
     -   Working with developers and QA to automate test suites.
 
 -   CI & Tooling Team, July to September 2016:
 
-    -   Developed Quality Dashboard web app using Python
-        > Flask framework.
+    -   Developed Quality Dashboard web app using Python Flask framework.
 
-    -   Implemented schedulable tasks on server that collect and cache
-        > data from various APIs. Cached data can then be quickly
-        > processed and served to clients based on their requests.
+    -   Implemented schedulable tasks on server that collect and cache data from various APIs. Cached data can then be quickly processed and served to clients based on their requests.
 
-    -   Implemented front-end data visualisation using HighCharts.
-        > Designed various views and panels using Jinja and Handelbars
-        > HTML templating engines.
+    -   Implemented front-end data visualisation using HighCharts. Designed various views and panels using Jinja and Handelbars HTML templating engines.
 
-    -   Worked in an agile scrum team on user stories and defects using
-        > Git for collaboration.
+    -   Worked in an agile scrum team on user stories and defects using Git for collaboration.
 
 -   Desktop Team, February to July 2016:
 
-    -   Tested reliability and functionality of password
-        > management software. Responsibilities included writing test
-        > plans to validate new features based on design documents,
-        > black-box and white-box testing, regression testing, and
-        > working in an agile development environment.
+    -   Tested reliability and functionality of password management software. Responsibilities included writing test plans to validate new features based on design documents, black-box and white-box testing, regression testing, and working in an agile development environment.
 
-    -   Started and worked part-time on Quality Dashboard project
-        > described above.
+    -   Started and worked part-time on Quality Dashboard project described above.
 
-    -   Wrote Powershell scripts to automate driver installation in an
-        > effort to reduce time spent setting up Windows test machines
-        > for QA team.
+    -   Wrote Powershell scripts to automate driver installation in an effort to reduce time spent setting up Windows test machines for QA team.
 
-**\
-**
 
 **September 2015 – January 2016, Freelance, Montreal, Canada**
 

@@ -39,34 +39,47 @@ Degree Classification: First Class (≈ 3.7 GPA)
 
 **WORK EXPERIENCE**
 
-**July 2016 – Present, Intel Security, Montreal, Canada**
+**February 2016 – Present, Intel Security, Montreal, Canada**
 
--   Contracting services in the Continuous Integration & Tooling Team.
-    Working full-time with an intern on the Quality Dashboard project
-    that I started in my previous team.
+Contracting services as a Quality Assurance Engineer.
 
--   Back end development in Python using Flask framework. Front end
-    development in Javascript with HighCharts for data visualization.
-    Working in an agile scrum team on user stories and defects. Git is
-    used for collaboration. Docker is used for server-side deployment.
+-   Android Team, September 2016 to present:
 
--   Currently onboarding with the team’s automation framework written
-    in Go.
+    -   Integrating with CI by writing Dockerfiles to set up Android
+        > development environment.
 
-**February 2016 – July 2016, Intel Security, Montreal, Canada**
+    -   Working with developers and QA to automate test suites.
 
--   Contracting services as a Quality Assurance Engineer. Testing
-    reliability and functionality of password management software.
-    Responsibilities include writing test plans to validate new features
-    based on design documents, black-box and white-box testing,
-    regression testing, and working in an agile development environment.
+-   CI & Tooling Team, July to September 2016:
 
--   Started and worked part-time on Quality Dashboard project
-    described above.
+    -   Developed Quality Dashboard web app using Python
+        > Flask framework.
 
--   Wrote Powershell scripts to automate driver installation in an
-    effort to reduce time spent setting up Windows test machines for
-    QA team.
+    -   Implemented schedulable tasks on server that collect and cache
+        > data from various APIs. Cached data can then be quickly
+        > processed and served to clients based on their requests.
+
+    -   Implemented front-end data visualisation using HighCharts.
+        > Designed various views and panels using Jinja and Handelbars
+        > HTML templating engines.
+
+    -   Worked in an agile scrum team on user stories and defects using
+        > Git for collaboration.
+
+-   Desktop Team, February to July 2016:
+
+    -   Tested reliability and functionality of password
+        > management software. Responsibilities included writing test
+        > plans to validate new features based on design documents,
+        > black-box and white-box testing, regression testing, and
+        > working in an agile development environment.
+
+    -   Started and worked part-time on Quality Dashboard project
+        > described above.
+
+    -   Wrote Powershell scripts to automate driver installation in an
+        > effort to reduce time spent setting up Windows test machines
+        > for QA team.
 
 **\
 **

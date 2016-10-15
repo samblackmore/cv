@@ -4,7 +4,7 @@
 
 samblackmore07@gmail.com
 
-www.samblackmore.xyz
+samblackmore.github.io
 
 \(514) 808-3272
 

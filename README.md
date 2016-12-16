@@ -104,10 +104,9 @@ Langley, UK**
 
 **SKILLS**
 
--   Proficient in C and GML
-
--   Experience with C++, Java, Selenium, Assembly, VHDL, Verilog, Linux,
-    VBA, AutoIt, Python, JavaScript, HTML, CSS, MATLAB
+-   Docker, Python, Flask, JavaScript, Node, Express, Jade, Linux, shell
+    scripting, Git, GitHub, HTML, CSS, data visualization, Java, Ruby,
+    Ruby on Rails, C, C++, Assembly, VBA
 
 -   Native English speaker, conversational French, basic German and
     Spanish

@@ -130,16 +130,30 @@ Chairman’s Prize 2009/10**
 
 **REFERENCES**
 
-Personal tutor: Intel manager:
+Intel manager:
 
-Dr Jonathan Goss Mark Atkinson
+Benoit Durel
 
-Merz Court Intel Corp (UK) Ltd
+Intel Security
 
-University of Newcastle Pipers Way
+4200 Boulevard St Laurent
 
-NE1 7RU Swindon
+Montreal
 
-Tel: (+44) 191 222 7425 SN1 4GX
+(+1) 514 967-0138
 
-Tel: (+44) 1793 404575
+benoit.durel@intel.com
+
+Personal tutor:
+
+Dr Jonathan Goss
+
+Merz Court
+
+University of Newcastle
+
+UK
+
+(+44) 191 222 7425
+
+jonathan.goss@ncl.ac.uk

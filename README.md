@@ -88,12 +88,6 @@ Contracting services as a Quality Assurance Engineer.
 
 -   *https://play.google.com/store/apps/details?id=com.sam.bottom*
 
-*Personal Website (www.samblackmore.xyz)*
-
--   Created portfolio website to practise and showcase programming.
-    Projects include a Java applet to visualise sorting algorithms and a
-    JavaScript syntax highlighter.
-
 **August 2014 – November 2014, Imagination Technologies Ltd., Kings
 Langley, UK**
 

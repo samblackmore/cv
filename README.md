@@ -26,11 +26,6 @@ Degree Classification: First Class (≈ 3.7 GPA)
     used to acquire and analyse images from a webcam. Red objects were
     located and driven towards for picking.
 
--   Group project – Building a line-following vehicle with inductive
-    guidance
-
--   Research projects – Home automation, Internet of Things
-
 **WORK EXPERIENCE**
 
 **February 2016 – Present, Intel Security, Montreal, Canada**

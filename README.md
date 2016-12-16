@@ -31,12 +31,6 @@ Degree Classification: First Class (≈ 3.7 GPA)
 
 -   Research projects – Home automation, Internet of Things
 
-**2000 – 2009, Stamford School, UK**
-
--   A Level Art (A), History (B), French (B), Physics (C)
-
--   11 GCSEs (grades A\*, A and B)
-
 **WORK EXPERIENCE**
 
 **February 2016 – Present, Intel Security, Montreal, Canada**

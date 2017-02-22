@@ -102,9 +102,8 @@ Langley, UK**
 
 **SKILLS**
 
--   Docker, Python, Flask, JavaScript, Node, Express, Jade, Linux, shell
-    scripting, Git, GitHub, HTML, CSS, data visualization, Java, Ruby,
-    Ruby on Rails, C, C++, Assembly, VBA
+-   Java, Android, Espresso, Python, Flask, Docker, Linux, shell
+    scripting, JavaScript, HTML, CSS, Git
 
 -   Native English speaker, conversational French, basic German and
     Spanish
